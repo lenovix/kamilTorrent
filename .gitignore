@@ -1,1 +1,5 @@
 /target
+/downloads/*
+!/downloads/.gitkeep
+/torrent-files/*
+!/torrent-files/.gitkeep
